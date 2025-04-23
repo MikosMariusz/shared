@@ -1,1 +1,1 @@
-
+# Repozytorium komponentów wspólnych
